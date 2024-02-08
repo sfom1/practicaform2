@@ -2,12 +2,16 @@ input.orange {
     color: orange;
     background-color: orange;
 }
-input:focus {
-    background: rgb(236, 112, 11);
-  }
 
+input.green {
+  color: white;
+  background-color: rgb(119, 189, 28);
+}
 
-
+input.orw {
+  color: white;
+  background-color: orange;
+}
 
 
   .custom-select-wrapper {
